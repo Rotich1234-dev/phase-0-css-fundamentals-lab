@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  color: red;
+  align-self: center;
+  text-align: center;
+}
+#featured-property {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+p#featured-property{
+  width: 800px;
+  text-align: center;
+}
+p{
+  width: 800px;
+  text-align: center;
+}
+  .Links a {
+    display: inline-block;
+    padding: 10px;
+    background-color: grey; 
+    text-decoration: none; 
+    color: white; /* Set text color for better visibility */
+}
+.image-caption {
+  font-size: 14px; /* Adjust the font size as needed */
+  text-align: center;}
+#details div {
+  float: left;
+  margin-right: 10px; /
+}
+.details{
+  background-color:red; 
+  width: 25%;
+  text-align: center;
+  display: inline-block;
+  box-sizing: border-box; /* Include padding and border in the width calculation */
+}
